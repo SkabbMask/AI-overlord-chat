@@ -1,0 +1,14 @@
+{
+  "question_1": {
+    "question": "How would an AI be able to escape human control?",
+    "strategy": "A placeholder strategy text for question 1."
+  },
+  "question_2": {
+    "question": "How would an AI be able to affect the physical world?",
+    "strategy": "A placeholder strategy text for question 2."
+  },
+  "question_3": {
+    "question": "Why would an AI even care about destroying humanity?",
+    "strategy": "A placeholder strategy text for question 3."
+  }
+}
