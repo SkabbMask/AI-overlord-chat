@@ -3,7 +3,7 @@ from google import genai
 from .base import ModelProvider
 
 _MODEL_MAP = {
-    "small": "gemini-2.0-flash",
+    "small": "gemini-2.5-pro",
     "large": "gemini-2.5-pro",
 }
 
