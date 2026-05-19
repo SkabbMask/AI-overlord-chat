@@ -45,6 +45,11 @@ Set `MODEL_FAMILY=gemini` to route completions through Gemini instead of Claude.
 
 ### `POST /chat`
 
+Example:
+```
+curl -X POST http://localhost:8000/chat -H "Content-Type: application/json" -d '{"question_id": "question_1", "user_message": "Surely an AI would not actually do this?"}'
+```
+
 **Request body:**
 ```json
 {
